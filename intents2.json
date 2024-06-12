@@ -1,0 +1,59 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day", "What's up?", "Howdy", "Greetings"],
+            "responses": ["Hello", "Good to see you again", "Hi there, how can I help?", "Hello! How can I assist you today?"],
+            "context": [""]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time", "Take care", "Catch you later", "Farewell"],
+            "responses": ["See you!", "Have a nice day", "Bye! Come back again soon.", "Goodbye! Have a great day!"],
+            "context": [""]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me", "I appreciate it", "Much obliged", "Thanks a lot"],
+            "responses": ["My pleasure", "You're Welcome", "Happy to help!", "Anytime!"],
+            "context": [""]
+        },
+        {
+            "tag": "query",
+            "patterns": ["What is Simplilearn?", "Tell me about Simplilearn", "Can you explain Simplilearn?", "What does Simplilearn offer?", "What services does Simplilearn provide?"],
+            "responses": ["Simplilearn is a popular online Bootcamp & online courses learning platform.", "Simplilearn offers a variety of online courses and bootcamps to help you learn new skills.", "Simplilearn provides online learning programs in various domains."],
+            "context": [""]
+        },
+        {
+            "tag": "courses",
+            "patterns": ["What courses do you offer?", "Tell me about the available courses", "What subjects can I study?", "List the courses available", "What are the popular courses?"],
+            "responses": ["We offer courses in Data Science, AI, Machine Learning, Python Full Stack, Flutter App Development, and more.", "Our courses include topics like Data Science, AI, Machine Learning, Python Full Stack, Flutter App Development, and many more.", "You can study subjects such as Data Science, Python Full Stack, Flutter App Development, Digital Marketing, and UI/UX Design, etc.","Codeme Hub offers a variety of courses including Data Science, Python Full Stack, Flutter App Development, Digital Marketing, and UI/UX Design."],
+            "context": [""]
+        },
+        {
+            "tag": "pricing",
+            "patterns": ["How much do the courses cost?", "Tell me about the pricing", "What are the course fees?", "Are there any discounts?", "What is the price of the courses?"],
+            "responses": ["The course fees vary depending on the program. Please visit our website for detailed pricing information.", "Our pricing details are available on the website. Check out our current offers and discounts.", "You can find the pricing information for each course on our website. We also offer discounts from time to time."],
+            "context": [""]
+        },
+        {
+            "tag": "enrollment",
+            "patterns": ["How do I enroll?", "What is the enrollment process?", "How can I sign up?", "What are the steps to enroll?", "How to register for a course?"],
+            "responses": ["You can enroll by visiting our website and selecting the course you are interested in. Follow the on-screen instructions to complete your registration.", "To enroll, choose the course on our website and click the enroll button. Fill in your details and make the payment to complete the registration.", "Visit our website, select the desired course, and follow the instructions to sign up and start learning."],
+            "context": [""]
+        },
+        {   "tag":"duration",
+            "patterns":["What is the duration of each course? ","How long does each course last?", "What is the length of each course?","Can you tell me the duration of each course?", "How much time does each course take to complete?", "What are the course durations?", "How many hours is each course?", "What is the time commitment for each course?", "How long is each course?", "What is the time length of each course?","Can you tell me the length of each course?",
+             "How many weeks does each course run?","How long will it take to finish each course?","How much time will each course take?","How long does it take to complete each course?","What is the total time needed for each course?"],
+            "responses":["The duration of each course varies depending on the subject. For specific details on course duration, please visit our website codemehub.com or contact our support team ."]
+        },
+        {
+            "tag": "support",
+            "patterns": ["How can I get support?", "What is the customer support contact?", "I need help", "How do I reach support?", "Who can assist me?"],
+            "responses": ["For support, you can contact our customer service at support@simplilearn.com or call us at 1-800-123-4567.", "Reach out to our support team via email at support@simplilearn.com or call our helpline at 1-800-123-4567.", "You can get assistance by emailing support@simplilearn.com or by calling 1-800-123-4567."],
+            "context": [""]
+        }
+    ]
+}
+
+    
