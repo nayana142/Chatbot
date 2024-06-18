@@ -1,4 +1,4 @@
-# Simple Chatbot using Bert
+# Simple Chatbot
 ![image](https://github.com/nayana142/Chatbot_Bert/assets/120770261/acb3fca3-45a2-4c1c-9b17-1ec33f5e9432)
 
 ## What are Chatbots?
@@ -13,7 +13,7 @@ Chatbots are AI-powered software applications designed to simulate human-like co
     Click on the folder icon on the left sidebar to open the file explorer.
     Upload your intents2.json file by clicking the upload icon.
 4. Load and Preprocess Data
-5. Load Pre-trained BERT Model
+5. Load Custom Model
 6. Prepare Datasets
 7. Compile and Train the Model
 8. Prediction and Response Functions
