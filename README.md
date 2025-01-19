@@ -1,5 +1,6 @@
 # Simple Chatbot
-![image](https://github.com/nayana142/Chatbot_Bert/assets/120770261/acb3fca3-45a2-4c1c-9b17-1ec33f5e9432)
+![Screenshot 2024-08-24 192546](https://github.com/user-attachments/assets/b073db79-6d4f-479c-972f-cac1331e9d56)
+
 
 ## What are Chatbots?
 Chatbots are AI-powered software applications designed to simulate human-like conversations with users through text or speech interfaces. They leverage natural language processing (NLP) and machine learning algorithms to understand and respond to user queries or commands in a conversational manner.Chatbots can be deployed across various platforms, including websites, messaging apps, and virtual assistants, to provide a wide range of services such as customer support, information retrieval, task automation, and entertainment. They play a crucial role in improving efficiency, enhancing user experience, and scaling customer service operations for businesses across different industries.
